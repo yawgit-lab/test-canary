@@ -1,0 +1,1 @@
+Hosted issue canary passed.
